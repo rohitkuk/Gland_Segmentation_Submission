@@ -1,1 +1,1 @@
-# Gland_Segmentation_Submission
+# Gland_Segmentation_Devs
